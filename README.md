@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Faiz-Alam-1999/Faiz-Alam-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in GPU software, graphics, and low-level systems.
 
-Here are some ideas to get you started:
+I enjoy understanding how computers work under the hood and building fast software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Graphics programming
+- Assembly and low-level optimization
+- GPU architecture
+
+### Interests
+- Computer graphics
+- Performance engineering
+- Systems programming
+
+### Goal
+Build a hyper-realistic game from scratch.
